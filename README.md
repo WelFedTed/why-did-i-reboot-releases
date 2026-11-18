@@ -8,7 +8,7 @@ It reads the Windows event log and shows one plain-English card per restart: Win
 
 ## Download
 
-Get **WhyDidIReboot.exe** from the [latest release](https://github.com/WelFedTed/why-did-i-reboot-releases/releases/latest). It is a single file that runs on any 64-bit Windows 10 or 11 PC with nothing else installed. No installer and no admin rights are needed. Some crash dumps can only be read as administrator, and the shield button in the app restarts it that way when you need it.
+Get **why-did-i-reboot.exe** from the [latest release](https://github.com/WelFedTed/why-did-i-reboot-releases/releases/latest). It is a single file that runs on any 64-bit Windows 10 or 11 PC with nothing else installed. (Releases also list *WhyDidIReboot.exe*: the same file under its old name, for copies of 0.15.0 to update from.) No installer and no admin rights are needed. Some crash dumps can only be read as administrator, and the shield button in the app restarts it that way when you need it.
 
 The app checks this page for new versions when it starts (you can turn that off in Settings), and **Update now** in Settings downloads the new version, verifies it and restarts.
 
